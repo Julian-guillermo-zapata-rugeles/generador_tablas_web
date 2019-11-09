@@ -1,0 +1,15 @@
+h4{
+background:green;
+padding-top:10px;
+padding-bottom:10px;
+color:white;
+
+}
+table {
+  border-collapse: collapse;
+  width:30%;
+}
+td {
+  border: gray 2px solid;
+  width:30%;
+}
